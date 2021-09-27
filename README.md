@@ -1,2 +1,2 @@
 # Grocery-List
-A python program to track groceries
+An object oriented interactive Python program to track groceries
